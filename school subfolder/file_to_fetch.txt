@@ -1,2 +1,3 @@
 file to fetch
-with merge error
+with merge error         # Merge completed
+creating merge conflict
