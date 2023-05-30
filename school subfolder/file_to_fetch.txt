@@ -1,3 +1,5 @@
 file to fetch
 with merge error         # Merge completed
 creating merge conflict
+
+editing the file without the updated first line
